@@ -1,6 +1,5 @@
 # IoT-Based Smart Farming System
 
-![System Overview](https://via.placeholder.com/800x400.png?text=IoT+Smart+Farming+System)  
 *Revolutionizing agriculture with IoT-powered smart technology.*
 
 ---
@@ -24,11 +23,9 @@ The **IoT-Based Smart Farming System** is an advanced solution designed to enhan
 
 ## Architecture Diagram
 
-### High-Level Architecture
-![High-Level Architecture](https://via.placeholder.com/800x400.png?text=High+Level+Architecture)  
+![High-Level Architecture](https://github.com/Anshusharma1805/Smart-Plant-Monitorig/blob/main/1.png)  
 
-### Component Interaction Diagram
-![Component Diagram](https://via.placeholder.com/800x400.png?text=Component+Interaction+Diagram)  
+![Component Diagram](https://github.com/Anshusharma1805/Smart-Plant-Monitorig/blob/main/2.png)  
 
 ---
 
